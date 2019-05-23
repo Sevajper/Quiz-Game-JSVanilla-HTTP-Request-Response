@@ -1,0 +1,74 @@
+/* General */
+body{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color: #ededed
+}
+
+/* Player */
+#quizTitlePlayer{
+    font-size: 50px;
+}
+
+#playerText{
+  width: 250px;
+  font-size: 25px;
+}
+
+#playerButton{
+  width: 150px;
+  font-size: 25px;
+}
+
+/* Quiz Game */
+#timerTitle{
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+#timer{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+#quizTitleGame{
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 166px;
+}
+
+#question{
+    display: block;
+    font-size: 40px;
+}
+
+#gameText{
+    display: block;
+    font-size: 25px;
+    margin: auto;
+    width: 397px;
+    margin-bottom: 5px;
+}
+
+#gameButton{
+    font-size: 25px;
+    margin: auto;
+    width: 401px;
+}
+
+#gameDiv{
+    font-size: 25px;
+}
+
+#formDiv{
+    font-size: 25px;
+}
+
+input[type=radio] {
+    width: 40px;
+    height: 20px;
+}
